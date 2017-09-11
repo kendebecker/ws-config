@@ -1,6 +1,4 @@
 spring:
-  application:
-    name: rental
   jackson:
     date-format: com.fasterxml.jackson.databind.util.ISO8601DateFormat
   datasource:
